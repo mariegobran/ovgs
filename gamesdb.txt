@@ -1,0 +1,1263 @@
+id: 665
+
+gameTitle: X-Men
+
+ReleaseDate: 03/30/1993
+
+Platform: Sega Genesis
+
+Number of players: 2
+
+Publisher: Sega
+
+Developer: Western Technologies Inc
+
+front_art: 
+
+back_art: 
+
+Overview: The evil mutant Magneto has devised the world's deadliest computer virus. Its sole purpose: To destroy the Uncanny X-Men. Now Wolverine, Gambit, Cyclops and Nightcrawler join Storm, Iceman, Archangel, Jean Grey and Rogue to stop Magneto from carrying out his diabolical plan. Their target is Magneto's secret base on Asteroid M. But lying in ambush are the murderous arch villains Juggernaut, Sabretooth, Mojo and Deathbird. Will Wolverine's adamantium claws and Gambit's energy-charged playing cards be enough to defeat the forces of Magneto? That's up to you.
+
+Genre: Action
+
+*****
+id: 20520
+
+gameTitle: X-Men
+
+ReleaseDate:
+
+Platform: Sega 32X
+
+Number of players: 1
+
+Publisher:
+
+Developer: Sega
+
+front_art: 
+
+back_art: 
+
+Overview: X-Men is an unreleased game developed for the Sega 32X. It was set to be an exclusive title for the system, but was cancelled for unknown reasons. A working title appears to have been X-Men: Mind Games. A prototype was dumped by Ryo Suzuki of SegaSaturno.com in August 2009. Most emulators will not run the game, however it is compatible with the latest releases of Kega Fusion. This prototype is very incomplete, and though gives hints that X-Men characters Wolverine, Rogue and Iceman would be playable, you can only control Bishop. Magazine shots show that the game progressed far enough for Wolverine to be included as a playable character. It has been suggested that the game eventually became the Sega Saturn/PlayStation/DOS game, The Incredible Hulk: The Pantheon Saga.
+
+Genre: Action
+
+*****
+id: 46972
+
+gameTitle: X-Men
+
+ReleaseDate:
+
+Platform: Microsoft Xbox 360
+
+Number of players:
+
+Publisher:
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview:
+
+Genre:
+
+*****
+id: 10681
+
+gameTitle: X-Men
+
+ReleaseDate: 02/12/1992
+
+Platform: Arcade
+
+Number of players: 4+
+
+Publisher: Konami
+
+Developer: Konami
+
+front_art: 
+
+back_art: 
+
+Overview: X-Men is an arcade game produced by Konami in 1992. It is a side-scrolling beat 'em up based on the Marvel Comics characters of the same name. In the game, players control one of the six playable X-Men to defeat their enemy Magneto. Konami made a six-player version of the game utilizing two screens housed in a deluxe cabinet.
+
+Genre: Action
+
+*****
+id: 8104
+
+gameTitle: X-Men
+
+ReleaseDate: 06/02/1993
+
+Platform: Sega Mega Drive
+
+Number of players: 2
+
+Publisher: Sega
+
+Developer: Western Technologies
+
+front_art: 
+
+back_art: 
+
+Overview: X-Men is a side-scrolling action game based on the comic book series of the same name. The player can control one of four playable characters: Gambit, Nightcrawler, Wolverine, or Cyclops. In addition, it is possible to call upon four other X-Men in when necessary.
+
+Genre: Action
+
+*****
+id: 14795
+
+gameTitle: X-Men
+
+ReleaseDate: 01/01/1994
+
+Platform: Sega Game Gear
+
+Number of players: 1
+
+Publisher: Sega
+
+Developer: Sega
+
+front_art: 
+
+back_art: 
+
+Overview: The evil mutant Magneto has devised the world's deadliest computer virus. Its sole purpose: To destroy the Uncanny X-Men. Now Wolverine, Gambit, Cyclops and Nightcrawler join Storm, Iceman, Archangel, Jean Grey and Rogue to stop Magneto from carrying out his diabolical plan. Their target is Magneto's secret base on Asteroid M. But lying in ambush are the murderous arch villains Juggernaut, Sabretooth, Mojo and Deathbird. Will Wolverine's adamantium claws and Gambit's energy-charged playing cards be enough to defeat the forces of Magneto? That's up to you.
+
+Genre: Action
+
+*****
+id: 4978
+
+gameTitle: X-Men Origins: Wolverine
+
+ReleaseDate: 05/01/2009
+
+Platform: Nintendo Wii
+
+Number of players:
+
+Publisher: Activision
+
+Developer: Amaze Entertainment
+
+front_art: 
+
+back_art: 
+
+Overview: A prologue shows Wolverine hunting/being hunted by a group of soldiers in a bleak urban environment. He is wearing a shredded uniform reminiscent of the costume seen in the X-Men films, indicating that this may take place in a later time. His thoughts drift to a forgotten past.
+
+Genre: Action
+
+*****
+id: 8898
+
+gameTitle: X-Men: Destiny
+
+ReleaseDate: 09/27/2011
+
+Platform: Microsoft Xbox 360
+
+Number of players: 1
+
+Publisher: Activision
+
+Developer: Silicon Knights
+
+front_art: 
+
+back_art: 
+
+Overview: X-Men: Destiny is an action role-playing video game based on the X-Men comic book series. It was developed by Silicon Knights. Written by Mike Carey, the writer of the X-Men: Legacy comic book series,[2] it was first published and released by Activision for the Nintendo DS, PlayStation 3, Xbox 360 and Wii consoles.[3] Along with many other games published by Activision that had used a Marvel license, X-Men: Destiny was de-listed and subsequently removed from all digital storefronts on January 1, 2014.[4][5] The game and another game, Too Human, were recalled, and had their unsold copies destroyed due to legal issues between Silicon Knights and Epic Games over the games' use of Unreal Engine 3 code.[6][7][8]
+
+Genre: Action
+
+*****
+id: 19766
+
+gameTitle: X-Men Origins: Wolverine
+
+ReleaseDate:
+
+Platform: Sony Playstation 2
+
+Number of players:
+
+Publisher:
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview: X-Men Origins: Wolverine is a 2009 hack and slash action-adventure game loosely based on the film of the same name. The game release coincided with the release of the film on May 1, 2009 for the PlayStation 3, Xbox 360, Windows, Wii, PlayStation 2, Nintendo DS, and PlayStation Portable. The game was developed primarily by Raven Software through the use of Unreal Engine technology. Amaze Entertainment developed the Wii and PS2 ports and Griptonite Games developed the PSP and DS ports. X-Men Origins: Wolverine, along with most other games published by Activision that had used the Marvel licence, was de-listed and removed from all digital storefronts on January 1, 2014.[1]
+
+Genre:
+
+*****
+id: 21932
+
+gameTitle: X-Men: Wolverine's Rage
+
+ReleaseDate: 05/15/2001
+
+Platform: Nintendo Game Boy Color
+
+Number of players:
+
+Publisher: Activision
+
+Developer: Digital Eclipse
+
+front_art: 
+
+back_art: 
+
+Overview: One of the most feared X-Men, Wolverine, is out on a quest all his own. Using his infamous claw, Wolverine will take on enemies of all shapes and sizes in this side-scrolling epic for fans of the X-MEN comics and gamers alike. Use special combo attacks and swift maneuvering to take out wrongdoers over the course pf each perilous level. Armed with supernatural agility and his adamantium-reinforced skeleton, Wolverine will encounter gruesome enemies of varying difficulty levels. As you control Wolverine, you'll be given access to a unique Rage Attack. Use it sparingly, or else subject yourself to the dangers of low energy and paralyzing weakness. The goal is to reach the final conflict a showdown with an all-too-familiar foe. Loaded with stellar graphics, the game's animation stays true to the comics that spawned it. The game is designed for one player, although the time limit and distinct level checkpoints lend themselves to comparing progress with fellow players.
+
+Genre: Platform
+
+*****
+id: 34608
+
+gameTitle: X-Men Legends
+
+ReleaseDate:
+
+Platform: N-Gage
+
+Number of players:
+
+Publisher:
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview:
+
+Genre:
+
+*****
+id: 41209
+
+gameTitle: X-Men Next Dimension
+
+ReleaseDate: 10/15/2002
+
+Platform: Microsoft Xbox
+
+Number of players: 2
+
+Publisher: Activision
+
+Developer: Paradox Entertainment
+
+front_art: 
+
+back_art: 
+
+Overview: The third and final installment in the X-Men: Mutant Academy fighting game series, following X-Men: Mutant Academy and X-Men: Mutant Academy 2. Next Dimension expands upon the concept of the first two games by adding several new characters, 3-D maps, and a story mode, which allows the player to fight a series of battles in between short movies that move the plot along. The plot of the story mode is loosely based on the comic story 'Operation: Zero Tolerance'.
+
+Genre:
+
+*****
+id: 4209
+
+gameTitle: X-Men Origins: Wolverine
+
+ReleaseDate: 05/01/2009
+
+Platform: PC
+
+Number of players:
+
+Publisher: Activision
+
+Developer: Raven
+
+front_art: 
+
+back_art: 
+
+Overview: A prologue shows Wolverine hunting/being hunted by a group of soldiers in a bleak urban environment. He is wearing a shredded uniform reminiscent of the costume seen in the X-Men films, indicating that this may take place in a later time. His thoughts drift to a forgotten past.
+
+Genre: Action
+
+*****
+id: 35095
+
+gameTitle: X-Men Legends
+
+ReleaseDate:
+
+Platform: Microsoft Xbox
+
+Number of players:
+
+Publisher: Activision
+
+Developer: Raven Software
+
+front_art: 
+
+back_art: 
+
+Overview: X-Men enter the realm of role-playing games with an intense story, superhero action, and multiplayer modes. The story in X-Men Legends begins when the X-Men learn that Magneto has devised a plan to give mutants the power to reign supreme over humans. To save the human race from imprisonment, you compose a four-person team from a roster of X-Men characters, including Storm, Gambit, and Wolverine.
+
+Genre:
+
+*****
+id: 47552
+
+gameTitle: X-Men Origins: Wolverine
+
+ReleaseDate:
+
+Platform: Nintendo DS
+
+Number of players:
+
+Publisher:
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview:
+
+Genre:
+
+*****
+id: 46111
+
+gameTitle: Ball
+
+ReleaseDate: 04/28/1980
+
+Platform: Game & Watch
+
+Number of players: 1
+
+Publisher: Nintendo
+
+Developer: Nintendo
+
+front_art: 
+
+back_art: 
+
+Overview: Game & Watch (Japanese ???&???? Gemu & Uotchi; called Tricotronic in West Germany and Austria) is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game & Watch features a single game to be played on an LCD screen in addition to a clock, an alarm, or both. This console inspired Nintendo to make the Game Boy. It was the earliest Nintendo product to gain major success.
+
+Genre:
+
+*****
+id: 35366
+
+gameTitle: Ultraman Ball
+
+ReleaseDate: 12/29/1991
+
+Platform: Nintendo Game Boy
+
+Number of players:
+
+Publisher: Interbec
+
+Developer: Interbec
+
+front_art: 
+
+back_art: 
+
+Overview: Bizarre platform game where Ultraman is turned into a ball. A re-package of a proposed Armadillo (NES) sequel.
+
+Genre: Platform
+
+*****
+id: 38214
+
+gameTitle: Wall Ball
+
+ReleaseDate: 07/04/1983
+
+Platform: Atari 2600
+
+Number of players: 1
+
+Publisher: Avalon Hill
+
+Developer: Avalon Hill
+
+front_art: 
+
+back_art: 
+
+Overview: Break through the 'flat' habit and experience a new dimension in video games. Play with the speed, control, and skill of handball, but without leaving home. Start slow or start fast, but don't be surprised if WALLBALL gives you a good workout! Wallball - 9 levels of 3-D racquet-and-ball simulation for the Atari 2600.
+
+Genre: Action
+
+*****
+id: 41077
+
+gameTitle: Bouncing Ball
+
+ReleaseDate: 11/01/1991
+
+Platform: Arcade
+
+Number of players: 2
+
+Publisher: Comad
+
+Developer: Comad
+
+front_art: 
+
+back_art: 
+
+Overview: A puzzle game where you drop balls in a certain order to create a sum of numbers.
+
+Genre: Puzzle
+
+*****
+id: 500
+
+gameTitle: Ball Breakers
+
+ReleaseDate: 07/26/2000
+
+Platform: Sony Playstation
+
+Number of players:
+
+Publisher: Take Two Interactive
+
+Developer: Lost Toys
+
+front_art: 
+
+back_art: 
+
+Overview: The universe is made up of human and synthetic lifeforms. Synthetic lifeforms are considered second class citizens by their human counterparts. The story takes place on the prison planet Alpha Prime, a world completely designed for the holding of criminals. You are a synthetic lifeform sentenced for an eternity for a crime you didn't commit and in order to earn your freedom, you must compete against other prisoners in competitions in 10 different incarceration facilities. To compete in these competitions however, you must undergo a procedure that removes your legs and replaces it with a rolling sphere. There are seven different events to compete in which are Pursuit, Last Man Rolling, Race, King of the Hill, Run the Gauntlet, Tag, and Powerball that pit you not only against your fellow inmates and guards, but against the levels themselves. Run the gauntlet charges you with making it to a goal point within a time limit, all the while avoiding other warriors and obstacles such as flame throwers, spikes, and gun turrets. Pursuit is identical, but it adds the challenge of the arena crumbling away. Powerball has you collecting balls throughout the arena and throwing them at a goalpost before time runs out. Tag has you collecting a set number of tokens that have been scattered throughout the arena within a set time limit.
+
+Genre:
+
+*****
+id: 6667
+
+gameTitle: I, Ball
+
+ReleaseDate:
+
+Platform: Commodore 64
+
+Number of players:
+
+Publisher: Firebird
+
+Developer: Timothy Closs
+
+front_art: 
+
+back_art: 
+
+Overview: The player takes the role of the eponymous Ball and gameplay takes the form of a vertically-scrolling shoot 'em up. It was also one of the first games to feature a wide range of power-ups (via power discs). I Ball featured some memorable synthesised speech.
+
+Genre: Action
+
+*****
+id: 14834
+
+gameTitle: Wiffle Ball
+
+ReleaseDate: 03/12/2007
+
+Platform: Nintendo DS
+
+Number of players:
+
+Publisher: Destination Software Inc (DSI)
+
+Developer: Skyworks Interactive
+
+front_art: 
+
+back_art: 
+
+Overview: For more than 50 years, the name WIFFLE has come to mean good, safe, baseball fun! Now, America's favorite backyard and city-street past time comes to your handheld video game system! It's WIFFLE ball like you've never seen it before! Power up your Nintendo DS system and get ready for the crazy curves, the mighty swings, and the frenzied fun... that is WIFFLE ball!
+
+Genre: Sports
+
+*****
+id: 28823
+
+gameTitle: Ball Breaker
+
+ReleaseDate:
+
+Platform: Amstrad CPC
+
+Number of players:
+
+Publisher:
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview:
+
+Genre:
+
+*****
+id: 27096
+
+gameTitle: The Ball
+
+ReleaseDate: 03/23/2013
+
+Platform: Ouya
+
+Number of players:
+
+Publisher:
+
+Developer: Tripwire Interactive
+
+front_art: 
+
+back_art: 
+
+Overview:
+
+Genre: Puzzle
+
+*****
+id: 45853
+
+gameTitle: BB Ball
+
+ReleaseDate: 06/24/2004
+
+Platform: Nintendo Game Boy Advance
+
+Number of players:
+
+Publisher: Micott & Basara
+
+Developer: Micott & Basara
+
+front_art: 
+
+back_art: 
+
+Overview: BB Ball is a Sports game, developed and published by Micott & Basara, which was released in Japan in 2004.
+
+Genre: Sports
+
+*****
+id: 32798
+
+gameTitle: Spin Ball
+
+ReleaseDate: 05/12/1983
+
+Platform: Vectrex
+
+Number of players: 2
+
+Publisher: GCE
+
+Developer: GCE
+
+front_art: 
+
+back_art: 
+
+Overview: Spin Ball is a pinball simulation game. The games pinball table comes complete with a variety of bumpers, spinners, and other targets which can earn you varying amounts of points with several combinations possible for even more points. Bonuses can be earned as well, both in point form and also ball savers which block the chutes on the corners of the screen. A ball splitter may also appear, allowing you to have two balls in play at one time. The joystick is used to set the tension on the spring when putting a ball into play or to shake the table during play, and the buttons are used to control the left and right paddles on the table. You begin each game with 5 balls, and the game ends when all 5 are lost.
+
+Genre: Action
+
+*****
+id: 36214
+
+gameTitle: Funky Ball
+
+ReleaseDate: 04/05/1995
+
+Platform: Arcade
+
+Number of players: 2
+
+Publisher: Atto Entertainment
+
+Developer: MegaBrain Computer
+
+front_art: 
+
+back_art: 
+
+Overview:
+
+Genre: Sports
+
+*****
+id: 34958
+
+gameTitle: Angle Ball
+
+ReleaseDate:
+
+Platform: Commodore 64
+
+Number of players:
+
+Publisher:
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview:
+
+Genre:
+
+*****
+id: 40640
+
+gameTitle: Plasma Ball
+
+ReleaseDate: 03/27/1992
+
+Platform: Nintendo Entertainment System (NES)
+
+Number of players:
+
+Publisher: Jaleco Entertainment
+
+Developer: Jaleco Entertainment
+
+front_art: 
+
+back_art: 
+
+Overview: Plasma Ball is an Action game, developed and published by Jaleco Entertainment, which was released in Japan in 1992.
+
+Genre: Action
+
+*****
+id: 41249
+
+gameTitle: Monkey Ball
+
+ReleaseDate: 01/01/2001
+
+Platform: Arcade
+
+Number of players: 1
+
+Publisher: Sega
+
+Developer: Amusement Vision
+
+front_art: 
+
+back_art: 
+
+Overview: Monkey Ball is a 2001 platform/party video game developed by Amusement Vision and published by Sega. The game debuted in Japan at the 2001 Amusement Operators Union trade show as Monkey Ball, an arcade cabinet running on Sega's NAOMI hardware and controlled with a distinctive banana-shaped analog stick.
+
+Genre: Platform
+
+*****
+id: 35502
+
+gameTitle: Beast Ball
+
+ReleaseDate: 09/16/2011
+
+Platform: Sega Genesis
+
+Number of players: 2
+
+Publisher: SegaAge
+
+Developer: Teque London
+
+front_art: 
+
+back_art: 
+
+Overview: Do you like action but reckon that chainsaw massacres are for grannies' tea parties? If you do then Brutal Sports Football is for you, league, knockout or unfriendly tournaments. Football with a new set of rules - No Rules! 1 or 2 Player Game 11 Different Teams Head To Head, All Out Combat Masses of Pick Ups Laughs, Blood This is an All Action crunch 'em, stamp 'em, no holds barred game where heads roll and where injury time means just that.
+
+Genre: Sports
+
+*****
+id: 5862
+
+gameTitle: Smart Ball
+
+ReleaseDate: 01/01/1991
+
+Platform: Super Nintendo (SNES)
+
+Number of players: 1
+
+Publisher: Sony Imagesoft
+
+Developer: Game Freak
+
+front_art: 
+
+back_art: 
+
+Overview: The game involves going through 8 stages (broken up into two parts each) of side-scrolling action. At the end of each stage is a boss monster that must be disposed of. Jerry moves by sliding across the ground and can latch on to walls and climb them. Jerry can also jump, stretch out to cling to ceilings, and also move at a faster pace. Jerry can consume balls that he finds during a stage and can then fire them out of his body at enemies blocking his path. Enemies can also be defeated by jumping on them and then flattening Jerry's body on them. Also, there are flowers that contain items for Jerry to collect. Items include life, which refills health, a 1-up that adds an extra life, and a seed, which will grow a climbable beanstalk when planted. If the player collects the scattered letters that appear in every stage that spell out the name Jerry, the player will earn two extra lives.
+
+Genre: Platform
+
+*****
+id: 11507
+
+gameTitle: Berzerk Ball
+
+ReleaseDate: 12/19/2010
+
+Platform: PC
+
+Number of players: 1
+
+Publisher:
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview: The expansion pack of the original Homerun game.
+
+Genre:
+
+*****
+id: 19796
+
+gameTitle: Dragon Ball
+
+ReleaseDate: 11/20/2003
+
+Platform: WonderSwan Color
+
+Number of players: 1
+
+Publisher: Bandai
+
+Developer: TOSE
+
+front_art: 
+
+back_art: 
+
+Overview: Follow the adventures of Son Goku and have your take on the familiar story of the young hero fighting his way through situations from all 16 chapters of the Dragon Ball saga. Battery back-up allows you to save the progress of your adventure!
+
+Genre: Role-Playing
+
+*****
+id: 30800
+
+gameTitle: Ball Crazy
+
+ReleaseDate: 01/01/1987
+
+Platform: Amstrad CPC
+
+Number of players:
+
+Publisher: Mastertronic
+
+Developer: The Firm
+
+front_art: 
+
+back_art: 
+
+Overview: Use Erik the ball, to change the colour of the block at the base of the screen to the colour indicated at the top. The indicator is a brick situated beneath the shape funnel, and at the start of every new layer it is highlighted with flashing arrows for five seconds. When all the blocks are the same colour a new layer is placed on top of the last. This will happen until there are 4 layers on the screen and then the screen will be cleared and a new background used. There are eight different backgrounds in total.
+
+Genre: Action
+
+*****
+id: 37366
+
+gameTitle: Athletic Ball
+
+ReleaseDate: 06/01/1984
+
+Platform: MSX
+
+Number of players:
+
+Publisher: Ascii
+
+Developer: Ascii
+
+front_art: 
+
+back_art: 
+
+Overview:
+
+Genre: Action
+
+*****
+id: 42050
+
+gameTitle: Gun Ball
+
+ReleaseDate: 01/01/1992
+
+Platform: Arcade
+
+Number of players: 2
+
+Publisher: Data East
+
+Developer: Data East
+
+front_art: 
+
+back_art: 
+
+Overview: Nitro Ball itself is apparently some kind of game show that involves two heavily armed guys blasting their way through hordes of mooks, collecting fabulous prizes along the way.
+
+Genre: Action
+
+*****
+id: 41709
+
+gameTitle: Fire Ball
+
+ReleaseDate: 12/01/1992
+
+Platform: Arcade
+
+Number of players: 4+
+
+Publisher: FM Work
+
+Developer: FM Work
+
+front_art: 
+
+back_art: 
+
+Overview: A Korean rip-off of Bomberman.
+
+Genre: Action
+
+*****
+id: 41115
+
+gameTitle: Cannon Ball
+
+ReleaseDate: 01/01/1980
+
+Platform: Arcade
+
+Number of players: 1
+
+Publisher: Novomatic
+
+Developer: Novomatic
+
+front_art: 
+
+back_art: 
+
+Overview: A breakout type game that runs on PacMan hardware. You control a greenish yellow sphere with a paddle mounted to his head, and your goal is to destroy large cannons by hitting them with your ball. Often the cannon will shoot you with a projectile. If it hits you, your paddle shrinks. If you are hit three times by the projectile, touch a monster, or fail to keep the ball in play, you lose a life.After four rounds, you are taken to a timed bonus round where you must consume pellets while dodging bullets shot by enemies.
+
+Genre: Puzzle
+
+*****
+id: 8434
+
+gameTitle: The Ball
+
+ReleaseDate: 10/26/2010
+
+Platform: PC
+
+Number of players: 1
+
+Publisher: Tripwire Interactive
+
+Developer: Teotl Studios
+
+front_art: 
+
+back_art: 
+
+Overview: The Ball is a first-person action adventure game. The player controls an archaeologist trapped in an underground city, armed with only an artifact that can attract or repel a large metal ball. To progress in the game, the ball must be guided into trigger the puzzle mechanisms, act as a platform in platforming or defend the player in combat. As the player progresses, the ball will gain additional abilities, strengthening its combat ability or allowing the player to progress in platforming and puzzles. The game contains an eight-level single player campaign and a survival mode focused on combat.
+
+Genre: Puzzle
+
+*****
+id: 20296
+
+gameTitle: Ball Jacks
+
+ReleaseDate: 04/23/1993
+
+Platform: Sega Mega Drive
+
+Number of players:
+
+Publisher: Namco
+
+Developer: Namco
+
+front_art: 
+
+back_art: 
+
+Overview: Ball Jacks (????????) is a 1993 game for the Sega Mega Drive by Namco released exclusively in Japan and Europe. The game is a 'sports game' with a unique sport involving grabbing balls from a conveyor belt on end end of the screen and dropping them into another. Whether or not this is a renamed port of another game is presently unknown.
+
+Genre: Sports
+
+*****
+id: 32948
+
+gameTitle: Nitro Ball
+
+ReleaseDate: 01/01/1992
+
+Platform: Arcade
+
+Number of players: 2
+
+Publisher: Data East
+
+Developer: Data East
+
+front_art: 
+
+back_art: 
+
+Overview: Nitro Ball (also known as Gun Ball) is a fast and furious action game, where the player blasts his way through pinball worlds, collecting points and items while avoiding the goons and their evil devices.
+
+Genre: Shooter
+
+*****
+id: 41608
+
+gameTitle: Speed Ball
+
+ReleaseDate: 10/01/1987
+
+Platform: Arcade
+
+Number of players: 2
+
+Publisher: Tecfri
+
+Developer: Tecfri
+
+front_art: 
+
+back_art: 
+
+Overview: Speed Ball was produced by Tecfri in 1987.
+
+Genre: Strategy
+
+*****
+id: 37694
+
+gameTitle: Roller Ball
+
+ReleaseDate:
+
+Platform: MSX
+
+Number of players: 1
+
+Publisher:
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview: Rollerball (??????? Roraboru?) is a video game produced by HAL Laboratory, Inc. in 1988 for the Nintendo Entertainment System four years after its initial release on the MSX. It is designed to be played by one to four players, in turn. It is an emulation of a pinball machine. The pinball machine rendered in Rollerball is composed of four screens, which, by proportion, would be about as long as two standard pinball tables if it were a real table. The graphics on two of the four screens are based on various aspects of the New York City skyline. The topmost screen (hereafter called the bonus screen) merely shows some clouds and a blimp. The second screen (the main screen) shows the top of the Empire State Building, while the third screen (intermediate) shows the lower skyline and the Statue of Liberty. The lowest (final) screen shows only a blue backdrop, representing the Ocean.
+
+Genre: Puzzle
+
+*****
+id: 40952
+
+gameTitle: Dragon Ball
+
+ReleaseDate:
+
+Platform: Epoch Super Cassette Vision
+
+Number of players:
+
+Publisher: Epoch
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview: Game #27
+
+Genre:
+
+*****
+id: 44834
+
+gameTitle: Hili Ball
+
+ReleaseDate:
+
+Platform: Atari 2600
+
+Number of players:
+
+Publisher: Starsoft
+
+Developer:
+
+front_art: 
+
+back_art: 
+
+Overview:
+
+Genre:
+
+*****
+id: 1879
+
+gameTitle: Klash Ball
+
+ReleaseDate: 07/01/1991
+
+Platform: Nintendo Entertainment System (NES)
+
+Number of players: 2
+
+Publisher: Sofel
+
+Developer: Sofel
+
+front_art: 
+
+back_art: 
+
+Overview: Sofel takes life simulation into the future with Klashball, for the NES. In a stadium hundreds of years from now, techno-gladiators do battle, combining contact with speed and finesse. Two five-man teams go for it, each fighting to deliver a three-kilo metallic energy sphere into the opponents goal zone. Teams challenge each other in a surreal arena that utilizes devices such as a warp tunnel, ball launcher, and magnetically charged bounce domes. Klashball features a complete league system. There are 11 rowdy teams, each with unique skills, strengths, and weaknesses. After each match the central computer analyzes the outcome and records the stats. Play against the computer or klash it out with a friend. If you're ready, take a trip into the 23rd century with Klashball. A game so real, it's in your face!
+
+Genre: Sports
+
+*****
+id: 18606
+
+gameTitle: Cool Ball
+
+ReleaseDate: 02/17/1991
+
+Platform: Nintendo Game Boy
+
+Number of players: 1
+
+Publisher: Takara
+
+Developer: Bit Managers
+
+front_art: 
+
+back_art: 
+
+Overview: You and your best girl were floating happily in the vast void of space. Suddenly, the Big Bang occurs, separating the two of you. It's up to you to travel through time to find her. Before this can happen, you must go though a number of levels collecting items. However, the items must be collected in the proper order, and you will face a number of obstacles including piranhas, pterodactyls, rats, and birds. Keep bouncing and stay focused on the goal to be reuniting with you girlfriend in COOL BALL.
+
+Genre: Platform
+
+*****
+id: 33933
+
+gameTitle: Ball Jacks
+
+ReleaseDate: 11/01/1993
+
+Platform: Sega Genesis
+
+Number of players:
+
+Publisher: Konami
+
+Developer: Namco
+
+front_art: 
+
+back_art: 
+
+Overview: Ball Jacks (????????) is a 1993 game for the Sega Mega Drive by Namco released exclusively in Japan and Europe. The game is a 'sports game' with a unique sport involving grabbing balls from a conveyor belt on end end of the screen and dropping them into another. Whether or not this is a renamed port of another game is presently unknown.
+
+Genre: Sports
+
+*****
+id: 39912
+
+gameTitle: Addicta Ball
+
+ReleaseDate: 01/01/1987
+
+Platform: MSX
+
+Number of players:
+
+Publisher: Alligata
+
+Developer: Alligata
+
+front_art: 
+
+back_art: 
+
+Overview: Addicta Ball is a Breakout clone with a twist. Players control a paddle to break down a wall of different block by bouncing a ball against them, but instead of removing them to clear a level, players need to make a path for the paddle to pass through. As time goes on, the bricks move lower down the screen so the path needs to be created as long as there is an opportunity. The game is over when the bricks hit the paddle. There are different kinds of power-ups, weapons, a thruster to move over the screen, and a barrier at the bottom of the screen that prevents the ball from disappearing, but it degrades over time.
+
+Genre: Action
+
+*****
+id: 47977
+
+gameTitle: Cannon Ball
+
+ReleaseDate: 07/17/1984
+
+Platform: MSX
+
+Number of players:
+
+Publisher:
+
+Developer: Hudson Soft
+
+front_art: 
+
+back_art: 
+
+Overview: You are the Cannon Man and you have to shoot the bouncing ball. When you hit the ball it will fall apart in two or three smaller balls and If you hit those smaller balls, they will also fall apart into two or three smaller balls. And if you hit the smallest balls again they will disappear. The gameplay is straightforward, you can only move from left to right and can shoot straight up. Don't get hit by the bouncing balls!
+
+Genre: Adventure
+
+*****
+id: 50660
+
+gameTitle: Ball Breakers
+
+ReleaseDate: 10/24/2000
+
+Platform: Sega Dreamcast
+
+Number of players: 1
+
+Publisher: Take 2 Interactive
+
+Developer: Lost Toys
+
+front_art: 
+
+back_art: 
+
+Overview: MoHo is a Sega Dreamcast game developed by Lost Toys and published by Take 2 Interactive in 2000. It is notable for being the only exclusive Dreamcast game for the United Kingdom, despite receiving ratings from the German USK and French SELL ratings bodies and having its back cover description translated into German. An American release under the name of Ball Breakers was planned for release in November 2000, but cancelled near completion; three different rips of a late prototype were leaked simultaneously in 2012.
+
+Genre: Action
+
+*****
+id: 34719
+
+gameTitle: Kick Ball
+
+ReleaseDate: 11/23/1990
+
+Platform: TurboGrafx 16
+
+Number of players: 2
+
+Publisher: Masaya
+
+Developer: Ncsoft
+
+front_art: 
+
+back_art: 
+
+Overview: A comedic baseball game in which players kick the incoming ball before running the bases. Kickball is a comedic sports game developed by Dual and published by Masaya exclusively for the Japanese PC Engine. It resembles baseball, complete with a diamond of bases to around, but the 'batting' player is actually kicking the ball. The rest of the game plays like a normal round of baseball. It features seven characters - each of which represents a team of identical athletes - each with their own special pitch/kick move. These characters also include the two protagonists from the Kaizou Choujin Shubibinman series Tasuke and Kyapiko (or Arnold and Sonia, as they're known in Shockman). Each team also has an assigned stadium that fits their theme the seal team, for instance, have a stadium with an ice-like floor.
+
+Genre: Sports
+
+*****
+id: 34550
+
+gameTitle: Fire Ball
+
+ReleaseDate: 01/01/1988
+
+Platform: MSX
+
+Number of players: 1
+
+Publisher: Hummingbird Soft
+
+Developer: Hummingbird Soft
+
+front_art: 
+
+back_art: 
+
+Overview: Generic Pinball Game
+
+Genre:
+
+*****
+id: 39175
+
+gameTitle: Angle Ball
+
+ReleaseDate: 01/01/1987
+
+Platform: Amstrad CPC
+
+Number of players: 2
+
+Publisher: Mastertronic
+
+Developer: Mastertronic
+
+front_art: 
+
+back_art: 
+
+Overview: Here's an original twist – a hexagonal pool table! You can play against a friend or the computer at any one of over twenty different table layouts. There are only seven balls on the table instead of the normal fifteen, and if you fail to pot a ball three times, you lose the frame. There's not that much else to say about it, but one nice feature is that you can design your own table layouts and save and load them for later use.
+
+Genre: Sports
